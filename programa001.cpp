@@ -6,6 +6,6 @@ main(void){
 	float quantity;
 	printf ("type of gas pumped:premium\n");
 	printf ("price of premium gas per gallon:$2.75 \n");
-	price=1.30*quantity;
+	price=2.75*quantity;
 	printf ("your total cost is:$ %f\n",price);
 }
