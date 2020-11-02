@@ -1,5 +1,0 @@
-*---- PROGRAMA 001 -----
-INICIO.
-	EXECUTA fibonacci().
-	RETORNA.
-FIM.

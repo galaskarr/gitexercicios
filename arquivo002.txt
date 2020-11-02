@@ -1,5 +1,0 @@
-*---- PROGRAMA 002 -----
-INICIO.
-	EXECUTA fibonacci_recursivo().
-	RETORNA.
-FIM.
